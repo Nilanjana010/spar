@@ -27,6 +27,3 @@ Finally, to see our summary statistics calculations please see our summaryStats.
 |---|---|
 | `google/gemma-2-2b` | `mntss/clt-gemma-2-2b-426k` |
 | `meta-llama/llama-3.2-1B` | `mntss/clt-llama-3.2-1b-524k` |
-
-## Contact
-For questions, reach out to Aneetej or Nilanjana.
